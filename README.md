@@ -15,7 +15,9 @@ This is a repo of various files and programs I use to help make my life easier
 
 <a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds)
   
-<a href="https://www.iterm2.com/">iTerm2</a> - Custom terminal
+<a href="https://www.iterm2.com/">iTerm2</a> - Custom terminal with zShell and oh-my-zsh
+
+
 
 ## VS Code Extensions ##
 Gitlens 
