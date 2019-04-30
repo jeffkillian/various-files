@@ -25,3 +25,5 @@ Gitlens
 EsLint
 
 Bracket Pair Colorizer 2
+
+<a href="https://github.com/tonsky/FiraCode">Fira Code font</a> (for ligature support)
