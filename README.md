@@ -27,3 +27,18 @@ EsLint
 Bracket Pair Colorizer 2
 
 <a href="https://github.com/tonsky/FiraCode">Fira Code font</a> (for ligature support)
+
+settings.json: 
+```
+{
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorCustomizations": {
+        "diffEditor.removedTextBackground": "#FF000055",
+        "diffEditor.insertedTextBackground":  "#37631a5e"
+    }
+}
+```
