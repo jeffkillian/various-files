@@ -15,6 +15,8 @@ This is a repo of various files and programs I use to help make my life easier
 
 <a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds)
   
+<a href="https://github.com/milgra/macmediakeyforwarder">Mac Media Key Forwarder</a> Makes sure that the touchbar controls ALWAYS control spotify or itunes (and not youtube)
+  
 ## Terminal
   
 <a href="https://www.iterm2.com/">iTerm2</a> - Custom terminal with zShell and oh-my-zsh
