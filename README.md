@@ -15,7 +15,9 @@ This is a repo of various files and programs I use to help make my life easier
 
 <a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds via <a href="https://ke-complex-modifications.pqrs.org/#vi_mode">VI Mode</a>)
   
-<a href="https://github.com/milgra/macmediakeyforwarder">Mac Media Key Forwarder</a> Makes sure that the touchbar controls ALWAYS control spotify or itunes (and not youtube)
+<a href="http://beardedspice.github.io/">BeardedSpice</a> Makes sure that the touchbar controls ALWAYS control spotify or itunes (and not youtube)
+
+
 
 Slack theme: `#253346,#434f61,#434f61,#FFFFFF,#434f61,#f4f5f7,#44DB5E,#f72951`
   
