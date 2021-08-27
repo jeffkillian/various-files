@@ -5,7 +5,7 @@ This is a repo of various files and programs I use to help make my life easier
 
 ## Programs ##
 
-<a href="https://www.spectacleapp.com/">Spectacle</a> - For easy window movement/resizing
+<a href="https://rectangleapp.com/">Rectangle</a> - For easy window movement/resizing
 
 <a href="http://lightheadsw.com/caffeine/">Caffeine</a> - So my computer doesn't fall asleep
 
