@@ -13,13 +13,13 @@ This is a repo of various files and programs I use to help make my life easier
 
 <a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a> - For easy macro/automation
 
-<a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds via <a href="https://ke-complex-modifications.pqrs.org/#vi_mode">VI Mode</a>)
+<a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds via <a href="[https://ke-complex-modifications.pqrs.org/#vi_mode](https://ke-complex-modifications.pqrs.org/#personal_tekezo_simple_vi_mode)">Simple VI Mode</a>)
   
 <a href="http://beardedspice.github.io/">BeardedSpice</a> Makes sure that the touchbar controls ALWAYS control spotify or itunes (and not youtube)
 
 
 
-Slack theme: `#253346,#434f61,#434f61,#FFFFFF,#434f61,#f4f5f7,#44DB5E,#f72951`
+Slack theme: `#04071A,#434f61,#437AAB,#FFFFFF,#434f61,#f4f5f7,#44DB5E,#DB2AA0,#434f61,#f4f5f7`
   
 ## Terminal
   
