@@ -27,6 +27,8 @@ Slack theme: `#04071A,#434f61,#437AAB,#FFFFFF,#434f61,#f4f5f7,#44DB5E,#DB2AA0,#4
 
 <a href="https://github.com/zsh-users/zsh-autosuggestions">zShell auto suggestions</a>
 
+<a href="https://gist.github.com/jordan-brough/48e2803c0ffa6dc2e0bd"> Git recent</a>
+
 
 
 ## VS Code Extensions ##
