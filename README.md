@@ -13,7 +13,7 @@ This is a repo of various files and programs I use to help make my life easier
 
 <a href="https://www.keyboardmaestro.com/main/">Keyboard Maestro</a> - For easy macro/automation
 
-<a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds via <a href="https://ke-complex-modifications.pqrs.org/#personal_tekezo_simple_vi_mode">Simple VI Mode</a>)
+<a href="https://pqrs.org/osx/karabiner/">Karabiner Elements<a> - For customizing keys (disable capslock, add s+hjkl as VIM keybinds via <a href="https://ke-complex-modifications.pqrs.org/#personal_tekezo_simple_vi_mode">Simple VI Mode</a>, <a href='https://ke-complex-modifications.pqrs.org/?q=open%20app'>Global app shortcut</a> to open slack)
   
 <a href="https://stuntsoftware.com/reflex/">Reflex</a> Makes sure that the media keys ALWAYS control spotify or itunes (and not youtube)
 
