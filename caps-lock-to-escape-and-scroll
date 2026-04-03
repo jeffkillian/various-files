@@ -1,0 +1,40 @@
+/* Turns capslock into escape (you could also do this in simple modifications). 
+However, this also then adds capslock + I or J to be page up/down. 
+You only want one place modifying a key so I removed the simple modification and this handles it all
+*/
+{
+    "description": "Caps Lock to Escape (if tapped), Page Up/Down (if held with I/K)",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "caps_lock",
+                "modifiers": { "optional": ["any"] }
+            },
+            "to": [
+                {
+                    "key_code": "left_control",
+                    "lazy": true
+                }
+            ],
+            "to_if_alone": [{ "key_code": "escape" }],
+            "to_if_held_down": [{ "key_code": "left_control" }],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "i",
+                "modifiers": { "mandatory": ["left_control"] }
+            },
+            "to": [{ "key_code": "page_up" }],
+            "type": "basic"
+        },
+        {
+            "from": {
+                "key_code": "k",
+                "modifiers": { "mandatory": ["left_control"] }
+            },
+            "to": [{ "key_code": "page_down" }],
+            "type": "basic"
+        }
+    ]
+}
