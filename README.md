@@ -5,6 +5,8 @@ This is a repo of various files and programs I use to help make my life easier
 
 ## Programs ##
 
+<a href="https://www.alfredapp.com/">Alfred</a> - For productivity and automation
+
 <a href="https://rectangleapp.com/">Rectangle</a> - For easy window movement/resizing
 
 <a href="http://lightheadsw.com/caffeine/">Caffeine</a> - So my computer doesn't fall asleep
@@ -20,7 +22,18 @@ This is a repo of various files and programs I use to help make my life easier
 
 
 Slack theme: `#04071A,#434f61,#437AAB,#FFFFFF,#434f61,#f4f5f7,#44DB5E,#DB2AA0,#434f61,#f4f5f7`
-  
+
+## Alfred Workflows
+
+Stored in `AlfredWorkflows/` folder:
+- Connect to Logi (requires `blueutil` install)
+- Open tab in new window
+
+Other workflows I like:
+- 2fa-read code
+- Browser tabs
+- Open conference URL
+
 ## Terminal
   
 <a href="https://www.iterm2.com/">iTerm2</a> - Custom terminal with zShell and oh-my-zsh
